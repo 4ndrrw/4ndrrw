@@ -68,12 +68,6 @@
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=4ndrrw&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=4ndrrw&layout=compact&theme=radical)
-
----
-
 ## 🌱 Currently Learning
 - ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6F00?logo=tensorflow&logoColor=white) Advanced architectures (GANs, VAEs, RLs)
 - ![MLOps](https://img.shields.io/badge/MLOps-102230?logo=mlflow&logoColor=white) Model deployment & monitoring
