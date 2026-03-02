@@ -1,5 +1,7 @@
 # Hi, I'm Andrew 👋
 
+[🌐 Portfolio](https://andrew.com) | [🔗 LinkedIn](https://www.linkedin.com/in/andrew-pang-hw/)
+
 🎓 Year 3 Applied AI & Analytics student at Singapore Polytechnic  
 💡 Passionate about AI, data analytics, and building impactful tech solutions  
 🚀 Exploring deep learning, computer vision, and data-driven applications  
@@ -15,10 +17,12 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=CSS3&logoColor=1572B6)
 
-### AI / ML Frameworks
+### Frameworks
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
 
 ### Data & Analytics
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
@@ -38,6 +42,27 @@
 ---
 
 ## 📌 Featured Projects
+
+- [**GreenVision AI**](https://github.com/4ndrrw/GreenVision-AI) [cite: 147]  
+    Enterprise-grade MLOps platform for automated agricultural produce classification using Deep Learning.
+    Features dual-model serving via Docker, persistent SQLite history tracking, and a robust GitLab CI/CD pipeline.
+    ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+    ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
+    ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+    ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+    ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?logo=gitlab&logoColor=white)
+    ![SQLite](https://img.shields.io/badge/SQLite-07405E?logo=sqlite&logoColor=white)
+    ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
+  
+- [**Precision Property Analytics - HDB Predictor**](https://github.com/4ndrrw/HDB-Price-Predictor)  
+  ML-powered Flask application predicting Singapore HDB resale prices using XGBoost and Random Forest.  
+  Features "Basic" and "Precise" valuation modes with spatial feature engineering and a RESTful API.  
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+  ![Flask](https://img.shields.io/badge/Flask-000000?logo=flask&logoColor=white)
+  ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?logo=scikit-learn&logoColor=white)
+  ![XGBoost](https://img.shields.io/badge/XGBoost-2C2C2C?logo=XGBoost&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-003B57?logo=sqlite&logoColor=white)
+  ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)
 
 - [**EMNIST Letter Generation GAN**](https://github.com/4ndrrw/EMNIST-Letter-Generation-GAN)  
   Conditional GAN trained on the EMNIST Letters dataset to generate handwritten letters.  
