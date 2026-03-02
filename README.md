@@ -1,6 +1,6 @@
 # Hi, I'm Andrew 👋
 
-🎓 Year 2 Applied AI & Analytics student at Singapore Polytechnic  
+🎓 Year 3 Applied AI & Analytics student at Singapore Polytechnic  
 💡 Passionate about AI, data analytics, and building impactful tech solutions  
 🚀 Exploring deep learning, computer vision, and data-driven applications  
 
