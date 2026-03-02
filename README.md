@@ -1,6 +1,6 @@
 # Hi, I'm Andrew 👋
 
-[🌐 Portfolio](https://andrew.com) | [🔗 LinkedIn](https://www.linkedin.com/in/andrew-pang-hw/)
+[🌐 Portfolio](https://andrewpang.dev) | [🔗 LinkedIn](https://www.linkedin.com/in/andrew-pang-hw/)
 
 🎓 Year 3 Applied AI & Analytics student at Singapore Polytechnic  
 💡 Passionate about AI, data analytics, and building impactful tech solutions  
