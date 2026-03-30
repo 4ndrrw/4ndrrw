@@ -43,7 +43,7 @@
 
 ## 📌 Featured Projects
 
-- [**GreenVision AI**](https://github.com/4ndrrw/GreenVision-AI) [cite: 147]  
+- [**GreenVision AI**](https://github.com/4ndrrw/GreenVision-AI)
     Enterprise-grade MLOps platform for automated agricultural produce classification using Deep Learning.
     Features dual-model serving via Docker, persistent SQLite history tracking, and a robust GitLab CI/CD pipeline.
     ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
