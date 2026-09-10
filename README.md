@@ -16,19 +16,19 @@
 
 ### Application Development
 
-![Application Development](https://go-skill-icons.vercel.app/api/icons?i=react,redux,nodejs,expressjs,flask,antdesign,socketio&titles=true&theme=dark&perline=6)
+![Application Development](https://go-skill-icons.vercel.app/api/icons?i=react,redux,nodejs,expressjs,flask,antdesign,socketio&titles=true&theme=dark)
 
 ### AI, Data & Cloud
 
-![AI, Data and Cloud](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,azure,aws,mongodb,sqlite,pandas,numpy&titles=true&theme=dark&perline=6)
+![AI, Data and Cloud](https://go-skill-icons.vercel.app/api/icons?i=chatgpt,azure,aws,mongodb,sqlite,pandas,numpy&titles=true&theme=dark)
 
 ### Engineering & Operations
 
-![Engineering and Operations](https://go-skill-icons.vercel.app/api/icons?i=docker,linux,nginx,systemd,git,github,gitlab,postman,selenium,vscode,pytest&titles=true&theme=dark&perline=6)
+![Engineering and Operations](https://go-skill-icons.vercel.app/api/icons?i=docker,linux,nginx,systemd,git,github,gitlab,postman,selenium,vscode,pytest&titles=true&theme=dark&)
 
 ---
 
-## 💼 Selected Work at Adactive Asia
+## 💼 Project Highlights at Adactive Asia
 
 > The source repositories are private and my contributions were made through my work GitHub account, so their activity is not reflected on this profile. Proprietary implementation details are omitted.
 
